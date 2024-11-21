@@ -1,6 +1,6 @@
 !
 ! Title: OtherUrl
-! Description: ÊÊÓÃÓÚAdGuardµÄÕıÔò¹æÔò¡¢PCDN¹æÔò£¬²»¶¨Ê±¸üĞÂ¡£
+! Description: é€‚ç”¨äºAdGuardçš„æ­£åˆ™è§„åˆ™ã€PCDNè§„åˆ™ï¼Œä¸å®šæ—¶æ›´æ–°ã€‚
 ! Homepage: https://github.com/npcola/OtherUrl
 ! Source: https://raw.githubusercontent.com/npcola/OtherUrl/refs/heads/master/OtherUrl.txt
 ! Version: 20241121
