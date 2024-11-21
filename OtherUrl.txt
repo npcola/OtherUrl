@@ -1,6 +1,10 @@
 !
 ! Title: OtherUrl
+! Description: 适用于AdGuard的正则规则、PCDN规则，不定时更新。
+! Homepage: https://github.com/npcola/OtherUrl
+! Source: https://raw.githubusercontent.com/npcola/OtherUrl/refs/heads/master/OtherUrl.txt
 ! Version: 20241121
+! Last modified: 2024/11/21
 !
 ||szbdyd.com^
 ||mcdn.bilivideo.cn^
