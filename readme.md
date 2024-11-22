@@ -1,6 +1,6 @@
 ## OtherUrl
 
-适用于AdGuard的正则规则、PCDN规则，不定时更新。
+适用于AdGuard的其他规则，不定时更新。
 
 ## 订阅链接
 
@@ -12,3 +12,4 @@
 
 1. https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 2. https://www.nodeseek.com/post-139229-3
+3. https://github.com/nextdns/native-tracking-domains/tree/main/domains
